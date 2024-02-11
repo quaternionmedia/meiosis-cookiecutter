@@ -1,0 +1,27 @@
+{
+    "name": "meiosis-cookiecutter",
+    "version": "0.0.1",
+    "description": "Template repository for creating a new Meiosis project using Mithril",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "browserslist": [
+        "defaults"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "github.com/quaternionmedia/meiosis-cookiecutter"
+    },
+    "author": "Harpo",
+    "license": "MIT",
+    "dependencies": {
+        "meiosis": "^2.0.0",
+        "meiosis-setup": "^6.2.3",
+        "meiosis-tracer": "^6.0.1",
+        "mithril": "^2.2.2"
+    },
+    "devDependencies": {
+        "vite": "^5.0.12"
+    }
+}
