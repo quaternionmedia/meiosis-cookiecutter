@@ -7,7 +7,7 @@ Cookiecutter template for a [Meiosis](https://meiosis.js.org/) project, using [M
 Install [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/installation.html) and generate the template:
 ```bash
 pip install cookiecutter
-cookiecutter gh:quaternionmedia/cookiecutter-meiosis
+cookiecutter gh:quaternionmedia/meiosis-cookiecutter
 ```
 
 ### Install dependencies:
