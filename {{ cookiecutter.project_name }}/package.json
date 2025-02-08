@@ -24,6 +24,6 @@
         "mithril": "^2.2.2"
     },
     "devDependencies": {
-        "vite": "^5.0.12"
+        "vite": "^6.1.0"
     }
 }
